@@ -1,0 +1,29 @@
+.OneTodo {
+    display: flex;
+  }
+  .editForm{
+    transform: translate(4%, 30%);
+  }
+  .upDown{
+    transform: translate(100%, -5%);
+    display: inherit;
+  }
+  .date{
+    display: inherit;
+    margin-left: 4%;
+  }
+  .checkMark{
+    margin-left: 1%;
+  }
+  #number{
+    margin-right: 1%; 
+  }
+  .create{
+  display:flex
+  
+  }
+  .container{
+    display: inherit;
+    height: 1%;
+    transform: translate(5%, 63%);
+  }
